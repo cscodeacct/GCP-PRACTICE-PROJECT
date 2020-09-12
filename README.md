@@ -1,2 +1,2 @@
-### Associate Cloud Engineer: PRACTICE PROJECT 
+### Associate Cloud Engineer: Practice Project
  
